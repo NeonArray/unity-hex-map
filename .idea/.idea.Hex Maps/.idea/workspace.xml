@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18d9dbcf-4fa9-4964-957b-2841b26d59e9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-608535476">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="5262" />
+          <entry key="shader" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="5262" />
+          <entry key="ShaderLab" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+          <entry key="shader" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+          <entry key="ShaderLab" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexMetrics.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <marker date="1546798405103" expanded="true" signature="50:580" ph="{...}" />
+                <marker date="1546798405103" expanded="true" signature="207:577" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexCell.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding>
+                <marker date="1546800555897" expanded="true" signature="56:123" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexGrid.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <marker date="1546800810376" expanded="true" signature="6:40" ph="..." />
+                <marker date="1546800810376" expanded="true" signature="78:2621" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="451:868" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="719:862" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="780:852" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="895:957" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="1008:1784" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="1812:1913" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="1855:1907" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="1946:2179" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="2114:2173" ph="{...}" />
+                <marker date="1546800810376" expanded="true" signature="2226:2619" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/HexCellShader.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+              <folding>
+                <marker date="1546800878823" expanded="true" signature="30:1695" ph="{...}" />
+                <marker date="1546800878823" expanded="true" signature="51:255" ph="{...}" />
+                <marker date="1546800878823" expanded="true" signature="274:1670" ph="{...}" />
+                <marker date="1546800878823" expanded="true" signature="349:1659" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexCoordinates.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+              <folding>
+                <marker date="1546800493676" expanded="true" signature="70:1611" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="170:215" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="232:296" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="313:358" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="400:456" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="522:1241" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="881:1183" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="1050:1096" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="1127:1173" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="1316:1377" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="1417:1496" ph="{...}" />
+                <marker date="1546800493676" expanded="true" signature="1542:1609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexMesh.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <marker date="1546800694335" expanded="true" signature="6:71" ph="..." />
+                <marker date="1546800694335" expanded="true" signature="170:2214" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="375:715" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="762:1297" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="946:1006" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="1342:1685" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="1440:1679" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="1752:2049" ph="{...}" />
+                <marker date="1546800694335" expanded="true" signature="2098:2212" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/HexCoordinatesDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexCoordinates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/HexCellShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexCell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexMetrics.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexMetrics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/HexCoordinatesDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexCoordinates.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexGrid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/HexCellShader.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18d9dbcf-4fa9-4964-957b-2841b26d59e9" name="Default Changelist" comment="" />
+      <created>1546796340702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546796340702</updated>
+      <workItem from="1546796345368" duration="4529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4529000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09701493" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexMetrics.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <marker date="1546798405103" expanded="true" signature="50:580" ph="{...}" />
+            <marker date="1546798405103" expanded="true" signature="207:577" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/HexCoordinatesDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <marker date="1546799819694" expanded="true" signature="16:625" ph="{...}" />
+            <marker date="1546799819694" expanded="true" signature="29:64" ph="..." />
+            <marker date="1546799819694" expanded="true" signature="171:623" ph="{...}" />
+            <marker date="1546799819694" expanded="true" signature="275:617" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexCoordinates.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="48" column="31" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+          <folding>
+            <marker date="1546800493676" expanded="true" signature="70:1611" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="170:215" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="232:296" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="313:358" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="400:456" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="522:1241" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="881:1183" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="1050:1096" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="1127:1173" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="1316:1377" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="1417:1496" ph="{...}" />
+            <marker date="1546800493676" expanded="true" signature="1542:1609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexCell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <marker date="1546800555897" expanded="true" signature="56:123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexMesh.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <marker date="1546800694335" expanded="true" signature="6:71" ph="..." />
+            <marker date="1546800694335" expanded="true" signature="170:2214" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="375:715" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="762:1297" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="946:1006" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="1342:1685" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="1440:1679" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="1752:2049" ph="{...}" />
+            <marker date="1546800694335" expanded="true" signature="2098:2212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HexGrid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <marker date="1546800810376" expanded="true" signature="6:40" ph="..." />
+            <marker date="1546800810376" expanded="true" signature="78:2621" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="451:868" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="719:862" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="780:852" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="895:957" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="1008:1784" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="1812:1913" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="1855:1907" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="1946:2179" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="2114:2173" ph="{...}" />
+            <marker date="1546800810376" expanded="true" signature="2226:2619" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/HexCellShader.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <marker date="1546800878823" expanded="true" signature="30:1695" ph="{...}" />
+            <marker date="1546800878823" expanded="true" signature="51:255" ph="{...}" />
+            <marker date="1546800878823" expanded="true" signature="274:1670" ph="{...}" />
+            <marker date="1546800878823" expanded="true" signature="349:1659" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
